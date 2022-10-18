@@ -1,3 +1,4 @@
 """Main module."""
 
-print("Hello World!")
+name=cookiecutter.project_name
+print("name: ", name)
