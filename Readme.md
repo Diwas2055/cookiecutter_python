@@ -60,3 +60,17 @@ Here you will put your repository template with all the structure and content yo
     - [`Cookiecutter Django Template`](https://github.com/pydanny/cookiecutter-django)
     - [`Cookiecutter Pylibrary Template`](https://github.com/ionelmc/cookiecutter-pylibrary)
     - [`Cookiecutter Flask Template`](https://github.com/sloria/cookiecutter-flask)
+
+
+# Setup for Cookiecutter
+
+```sh
+pip install cookiecutter
+cookiecutter <'github_url'>
+```
+>Simple Demo for creating python templates using cookiecutter:-
+
+```sh
+pip install cookiecutter
+cookiecutter https://github.com/Diwas2055/cookiecutter_test
+```

@@ -1,5 +1,5 @@
 {
-    "project_name": "{{cookiecutter.project_name}}",
+    "project_name": "Python Boilerplate",
     "project_slug": "{{ cookiecutter.project_name|lower|replace(' ', '-') }}",
     "python_version": "[“2.7.15”, “3.6.5”]",
     "some_lib_version": "1.2.1",

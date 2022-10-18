@@ -1,4 +1,4 @@
 """Main module."""
 
-name=cookiecutter.project_name
+name={{cookiecutter.project_name}}
 print("name: ", name)
