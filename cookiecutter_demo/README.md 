@@ -1,0 +1,12 @@
+# Setup for Cookiecutter
+
+```sh
+pip install cookiecutter
+cookiecutter <'github_url'>
+```
+>Simple Demo for creating python templates using cookiecutter:-
+
+```sh
+pip install cookiecutter
+cookiecutter https://github.com/Diwas2055/cookiecutter_test
+```
